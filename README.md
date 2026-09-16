@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm GreyVert! 👋</h1>
-<h3 align="center">I'm a 3D Artist | Hard Surface & Character Clothes Specialist | Game Art</h3>
 
 <br>
 <p align="center">
