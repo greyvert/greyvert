@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm GreyVert! 👋</h1>
 <h3 align="center">3D Artist | Hard Surface & Character Clothes Specialist</h3>
 
-<h3 align="center">Welcome to greyweb's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 <br>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&color=1FD366&width=500&lines=I'm+a+3D+Designer+and+Front-end+Developer..." alt="Typing SVG" /></a>
